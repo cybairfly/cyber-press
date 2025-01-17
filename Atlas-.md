@@ -1,3 +1,5 @@
-[[Atlas-charts]]
-[[Atlas-tasks-daily]]
-[[Atlas-notes-rules]]
+- [[Atlas-charts]]
+- [[Atlas/charts/emoji/sheet]]
+- [[Atlas/charts/emoji/sheet]]
+- [[Atlas-tasks-daily]]
+- [[Atlas-notes-rules]]

@@ -1,3 +1,3 @@
-[[Cyber-build]]
-[[Cyber-install]]
-[[Cyber-upwork]]
+- [[Cyber-build]]
+- [[Cyber-install]]
+- [[Cyber-upwork]]
