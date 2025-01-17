@@ -1,4 +1,4 @@
-<!-- - [Atlas](./Atlas-.md) -->
+- [Atlas](./Atlas-.md)
 <!-- - [Books](./Books-.md) -->
 - [Cyber](./Cyber-.md)
 <!-- - [Codex](./Codex-.md) -->
