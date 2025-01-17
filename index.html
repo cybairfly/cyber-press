@@ -17,12 +17,12 @@
       window.$docsify = {
 		  // relativePath: true,
 		//   onlyCover: true,
-		  name: '<b>CodeyThinks</b><br>~ CyberPress ~<br>',
+		  name: 'CodeyThinX<br><b>CyberPress</b>',
 		//   name: 'CyberPress',
 		//   logo: 'logo.svg',
 		// basePath: 'Codex/Notes',
 		homepage: '_root.md',
-		notFoundPage: '_docs/404.md',
+		notFoundPage: '/_docs/404.md',
 		//   homepage: '_index.md',
 		//   basePath: 'https://raw.githubusercontent.com/ryanmcdermott/clean-code-javascript/master/',
 		  // smartypants: true,
@@ -32,11 +32,15 @@
 		  loadNavbar: '_docs/navbar.md',
 		loadSidebar: '_root.md',
 		// loadSidebar: 'sidebar.md',
-		fallbackLanguages: ['cz'],
+		// fallbackLanguages: ['cz'],
 		// formatUpdated: '{MM}/{DD} {HH}:{mm}',
+		search: {
+			hideOtherSidebarContent: true,
+		}
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 	<script src="//unpkg.com/docsify-wikilink/dist/docsify-wikilink.min.js"></script>
   </body>
 </html>
