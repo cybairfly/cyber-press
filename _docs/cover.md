@@ -56,7 +56,7 @@
         <a href="https://ekyvadlo.webnode.page" target="_blank"><img src="_docs/media/wheel.png" width="400"><br>eWheel</a>
       </div>
       <div class="th">
-        <a href="#" target="_blank"><img src="_docs/media/notes.png" width="400"><br>Notes</a>
+        <a href="notes.html" target="_blank"><img src="_docs/media/notes.png" width="400"><br>Notes</a>
       </div>
     </div>
   </div>
