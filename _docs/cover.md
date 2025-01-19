@@ -33,7 +33,12 @@
 }
 
 .th {
-  font-weight: bold; /* Optional: Make header cells bold */
+	transition: transform 0.3s ease-in-out;
+	font-weight: bold; /* Optional: Make header cells bold */
+}
+
+.th:hover {
+	transform: scale(1.5);
 }
 </style>
 
