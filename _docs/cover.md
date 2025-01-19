@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 # Codey
-![logo](_docs/media/avatar.jpg)
+![logo](_docs/media/avatar.png)
 
 > Welcome!
 
