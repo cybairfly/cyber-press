@@ -15,9 +15,6 @@
 .table {
   display: table;
   margin: 50px auto;
-  /* margin-bottom: 50px; */
-  /* width: 37%; */
-  border: none !important; 
   border-collapse: collapse; /* Optional: Prevents double borders */
 }
 
@@ -30,9 +27,9 @@
 }
 
 .th, .td {
+	border: none;
   display: table-cell;
-  padding: 8px; Adjust padding as needed
-  /* border: 1px solid black; Optional: Add borders */
+  padding: 8px;
 }
 
 .th {
