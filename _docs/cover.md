@@ -60,26 +60,6 @@
       </div>
     </div>
   </div>
-  <!-- <div class="tbody">
-    <div class="tr">
-      <div class="td">Row 1, Cell 1</div>
-      <div class="td">Row 1, Cell 2</div>
-      <div class="td">Row 1, Cell 3</div>
-      <div class="td">Row 1, Cell 4</div>
-    </div>
-    <div class="tr">
-      <div class="td">Row 2, Cell 1</div>
-      <div class="td">Row 2, Cell 2</div>
-      <div class="td">Row 2, Cell 3</div>
-      <div class="td">Row 2, Cell 4</div>
-    </div>
-    <div class="tr">
-      <div class="td">Row 3, Cell 1</div>
-      <div class="td">Row 3, Cell 2</div>
-      <div class="td">Row 3, Cell 3</div>
-      <div class="td">Row 3, Cell 4</div>
-    </div>
-  </div> -->
 </div>
 
 <!-- - Choose network: -->
@@ -92,7 +72,7 @@
 
 <div style="margin: 50px 0;"></div>
 
-[Contact](#docsify)
+[Contact](https://registry.jsonresume.org/cybairfly)
 
 
 ![color](#994400)
