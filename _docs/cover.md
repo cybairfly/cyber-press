@@ -12,57 +12,48 @@
 	border-radius: 10px;
 }
 
-.table {
-  display: table;
+table {
   margin: 50px auto;
   border-collapse: collapse; /* Optional: Prevents double borders */
 }
 
-.thead, .tbody {
-  display: table-row-group;
-}
-
-.tr {
-  display: table-row;
-}
-
-.th, .td {
+th, td {
+	width: 20%;
 	border: none;
-  display: table-cell;
   padding: 8px;
 }
 
-.th {
+th {
 	transition: transform 0.3s ease-in-out;
 	font-weight: bold; /* Optional: Make header cells bold */
 }
 
-.th:hover {
+th:hover {
 	transform: scale(1.5);
 }
 </style>
 
-<div class="table" style="border: none;">
-  <div class="thead">
-    <div class="tr">
-      <div class="th">
-        <a href="https://registry.jsonresume.org/cybairfly" target="_blank"><img src="_docs/media/resume.png" width="400"><br>Resumé</a>
-      </div>
-      <div class="th">
-        <a href="https://apify.com/cyberfly" target="_blank"><img src="_docs/media/apify.png" width="400"><br>Apify</a>
-      </div>
-      <div class="th">
-        <a href="https://www.upwork.com/freelancers/~017e2ac9c16d17c3fc" target="_blank"><img src="_docs/media/upwork.png" width="400"><br>Upwork</a>
-      </div>
-      <div class="th">
-        <a href="https://ekyvadlo.webnode.page" target="_blank"><img src="_docs/media/wheel.png" width="400"><br>eWheel</a>
-      </div>
-      <div class="th">
-        <a href="notes.html" target="_blank"><img src="_docs/media/notes.png" width="400"><br>Notes</a>
-      </div>
-    </div>
-  </div>
-</div>
+<table style="border: none;">
+  <thead>
+    <tr>
+      <th>
+        <a href="https://registry.jsonresume.org/cybairfly" target="_blank"><img src="_docs/media/resume.png"><br>Resumé</a>
+      </th>
+      <th>
+        <a href="https://apify.com/cyberfly" target="_blank"><img src="_docs/media/apify.png"><br>Apify</a>
+      </th>
+      <th>
+        <a href="https://www.upwork.com/freelancers/~017e2ac9c16d17c3fc" target="_blank"><img src="_docs/media/upwork.png"><br>Upwork</a>
+      </th>
+      <th>
+        <a href="https://ekyvadlo.webnode.page" target="_blank"><img src="_docs/media/wheel.png"><br>eWheel</a>
+      </th>
+      <th>
+        <a href="notes.html" target="_blank"><img src="_docs/media/notes.png"><br>Notes</a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
 <!-- - Choose network: -->
 
