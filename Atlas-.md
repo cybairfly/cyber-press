@@ -1,3 +1,0 @@
-- [[Atlas-charts]]
-- [[Atlas-tasks-daily]]
-- [[Atlas-notes-rules]]
