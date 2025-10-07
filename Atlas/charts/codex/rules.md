@@ -1,3 +1,4 @@
+```
 note
   text?
     yes
@@ -17,5 +18,6 @@ note
             index
             topic
         no
+```
 
 [[Atlas/charts/codex/rules.png]]
