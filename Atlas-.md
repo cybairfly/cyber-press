@@ -12,3 +12,4 @@
 [[Atlas/emails]]
 
 [[Atlas/charts/grease]]
+[[Atlas/charts/tests/markdown]]
