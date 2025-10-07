@@ -13,3 +13,5 @@
 
 [[Atlas/charts/grease]]
 [[Atlas/charts/tests/markdown]]
+
+[[Atlas/check/notes]]
